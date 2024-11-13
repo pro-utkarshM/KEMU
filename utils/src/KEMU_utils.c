@@ -1,4 +1,4 @@
-/* birchutils.c v1.3 */
+/* KEMU_utils.c v1.0 */
 #include <KEMU_utils.h>
 #include <stdio.h>
 #include <string.h>

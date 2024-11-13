@@ -1,4 +1,4 @@
-/* birchutils.h */
+/* KEMU_utils.h */
 #pragma once
 
 #include <stdio.h>
