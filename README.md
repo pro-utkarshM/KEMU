@@ -15,11 +15,6 @@ Welcome to **KEMU**, an experimental, lightweight virtual machine written in C. 
 - **Custom Instruction Set**: A simple set of opcodes enables basic operations, allowing for straightforward computation and memory handling.
 - **Modular Design**: CPU, memory, and program components are modular, making it easy to extend with additional functionality.
 
-## Requirements
-
-- **Bash Build System**: This project leverages the `Bash.bs` build system to generate base C files. Download it from the [Doctor Birch Repo](https://repo.doctorbirch.com/).
-- **BirchUtils**: Essential utilities and macros, available in the same repository.
-
 ## Project Structure
 
 - `KEMU.c` – Main implementation file with entry-level setup and initialization of VM structures.
