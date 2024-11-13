@@ -17,7 +17,6 @@ Welcome to **KEMU**, an experimental, lightweight virtual machine written in C. 
 
 ## Requirements
 
-- **CodePlanet Server**: You can follow along with this project using a Linux server setup available on the CodePlanet platform (tier one membership required).
 - **Bash Build System**: This project leverages the `Bash.bs` build system to generate base C files. Download it from the [Doctor Birch Repo](https://repo.doctorbirch.com/).
 - **BirchUtils**: Essential utilities and macros, available in the same repository.
 
