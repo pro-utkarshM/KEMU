@@ -8,6 +8,8 @@
 #include <errno.h>
 #include <KEMU_utils.h>
 
+#define ErrMem  0x01
+
 typedef unsigned char int8;
 typedef unsigned short int int16;
 typedef unsigned int int32;
@@ -90,4 +92,5 @@ static IM instrMap[]={
     // { Opcode.mov, 0x03},
 };
 
+VM *virtualMachine(Program *, int16);
 int main(int,char**);
